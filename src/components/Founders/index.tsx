@@ -1,6 +1,6 @@
 import Image from 'next/image';
 
-import matheusClemente from '@public/assets/founders/matheus-clemente.png';
+import matheusClemente from '@public/assets/founders/henrique.png';
 import fernandoForneas from '@public/assets/founders/fernando-forneas.png';
 import foundersMisc from '@public/assets/founders/misc.svg';
 import { ArrowRight } from '@phosphor-icons/react';
