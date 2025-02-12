@@ -1,0 +1,154 @@
+{
+  "company_name": "Cloud Arbitration LTDA",
+
+  "seo": {
+    "title": "Cloud Arbitration LTDA",
+    "description": "Tecnología avanzada en Medios Programáticos"
+  },
+
+  "contact_us": "Contáctanos",
+  "send_message": "Enviar mensaje",
+  "lets_talk": "Hablemos",
+
+  "nav": {
+    "about": "Sobre nosotros",
+    "media": "Sobre nosotros"
+  },
+
+  "hero": {
+    "title": "Medios Programáticos & Estrategia de Marketing",
+    "highlight": "Optimizamos conversiones y conectamos marcas con el público adecuado con precisión."
+  },
+
+  "about": {
+    "title": "Tecnología innovadora<br class='max-md:hidden' /> y experiencia estratégica",
+    "description": "<p>Especializados en Medios Programáticos, entregamos resultados excepcionales.</p><p>Combinamos tecnología de vanguardia, datos estratégicos y conocimiento especializado para potenciar el rendimiento de tus campañas digitales. Garantizamos que tu marca alcance al público adecuado, maximizando el retorno de la inversión en publicidad online.</p>",
+    "highlight_card": "millones de personas impactadas"
+  },
+
+  "founders": {
+    "title": "Fundado por especialistas<br class='max-md:hidden' /> en el sector"
+  },
+
+  "metrics": {
+    "title": "Nuestros resultados<br /><strong>hablan por sí solos</strong>",
+    "description": "Comprobamos nuestro impacto a través de datos concretos y métricas de éxito.",
+
+    "data": [
+      {
+        "icon": "globe",
+        "primary": "+40 países",
+        "secondary": "alcanzados"
+      },
+      {
+        "icon": "chartlineup",
+        "primary": "+5 millones",
+        "secondary": "accesos mensuales"
+      },
+      {
+        "icon": "usersthree",
+        "primary": "+15 millones",
+        "secondary": "personas ayudadas"
+      }
+    ]
+  },
+
+  "text_rotator": [
+    "Norteamérica",
+    "Europa",
+    "Centroamérica",
+    "Sudamérica",
+    "Asia",
+    "África",
+    "Oceanía"
+  ],
+
+  "media": {
+    "title": "Cloud Arbitration<strong class='block'> en el mundo</strong>",
+    "description": "Descubre lo que dicen sobre CA en internet y el mundo.",
+    "articles": [
+      {
+        "title": "Tendencias en Medios Programáticos",
+        "description": "Cómo optimizar campañas digitales y aumentar conversiones.",
+        "url": "https://google.com"
+      }
+    ]
+  },
+
+  "segments": {
+    "title": "Operamos en <strong class='block'>múltiples sectores</strong>",
+    "description": "Nuestra presencia abarca una amplia gama de industrias, ofreciendo soluciones adaptadas a cada mercado.",
+    "items": [
+      "Mercado Financiero",
+      "Educación",
+      "Moda y accesorios",
+      "Tecnología",
+      "Retail",
+      "Servicios"
+    ],
+    "and_more": "y mucho más...",
+    "highlight": {
+      "primary": "15",
+      "secondary": "sectores trabajados"
+    }
+  },
+
+  "footer": {
+    "conversion": {
+      "title": "¿Tienes una nueva idea?",
+      "description": "Tenemos la experiencia y las estrategias para hacerla realidad."
+    },
+    "copyright": "Todos los derechos reservados",
+    "contacts": {
+      "email": {
+        "label": "Correo electrónico",
+        "value": "info@cloudarbitration.com"
+      },
+      "phone": {
+        "label": "Teléfono",
+        "value": "(31) 99342-0738"
+      }
+    }
+  },
+
+  "social": {
+    "facebook": "https://facebook.com/cloudarbitration",
+    "instagram": "https://instagram.com/cloudarbitration",
+    "linkedin": "https://br.linkedin.com/company/cloudarbitration"
+  },
+
+  "form": {
+    "title": "¿Hablamos?",
+    "description": "Completa el formulario para ponerte en contacto con nosotros.",
+    "success_message": "¡Mensaje enviado con éxito!",
+    "error_message": "Algo salió mal, ¡inténtalo de nuevo!",
+    "send_message": "Enviar mensaje",
+    "or_send_mail": "O envía un correo electrónico:",
+    "contact_email": "info@cloudarbitration.com",
+    "fields": {
+      "name": {
+        "label": "¿Cuál es tu nombre?",
+        "placeholder": "Tu nombre completo",
+        "required_message": "Escribe tu nombre completo aquí."
+      },
+      "email": {
+        "label": "¿Cuál es tu correo electrónico?",
+        "placeholder": "tucorreo@email.com",
+        "required_message": "Introduce un correo válido aquí."
+      },
+      "message": {
+        "label": "Mensaje",
+        "placeholder": "Escribe aquí lo que necesitas...",
+        "required_message": "Necesitamos saber qué necesitas."
+      }
+    },
+    "highlight_primary": {
+      "pre": "+5 millones",
+      "post": "de personas ayudadas"
+    },
+    "highlight_secondary": {
+      "pre": "+15 millones",
+      "post": "de accesos mensuales"
+    }
+  }
+}
