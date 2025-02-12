@@ -1,0 +1,186 @@
+{
+  "company_name": "Cloud Arbitration LTDA",
+
+  "seo": {
+    "title": "Cloud Arbitration LTDA",
+    "description": "Tecnologia avançada de Mídia Programática"
+  },
+
+  "contact_us": "Fale conosco",
+  "send_message": "Enviar mensagem",
+  "lets_talk": "Vamos conversar",
+
+  "nav": {
+    "about": "Sobre nós"
+  },
+
+  "hero": {
+    "title": "Mídia Programática & Estratégia de Marketing",
+    "highlight": "Otimizamos conversões e conectamos marcas ao público certo com precisão."
+  },
+
+  "about": {
+    "title": "Tecnologia inovadora<br class='max-md:hidden' /> e expertise estratégica",
+    "description": "<p>Especializados em Mídia Programática, entregamos resultados excepcionais.</p><p>Aliamos tecnologia de ponta, dados estratégicos e conhecimento especializado para potencializar a performance das suas campanhas digitais. Garantimos que sua marca alcance o público certo, maximizando o retorno sobre o investimento em publicidade online.</p>",
+    "highlight_card": "milhões de pessoas impactadas"
+  },
+
+  "founders": {
+    "title": "Fundado por especialistas<br class='max-md:hidden' /> no setor"
+  },
+
+  "metrics": {
+    "title": "Nossos resultados<br /><strong>falam por si</strong>",
+    "description": "Comprovamos nosso impacto por meio de dados concretos e métricas de sucesso.",
+
+    "data": [
+      {
+        "icon": "globe",
+        "primary": "+40 países",
+        "secondary": "alcançados" 
+      },
+
+      {
+        "icon": "chartlineup",
+        "primary": "+5 milhões",
+        "secondary": "acessos mensais" 
+      },
+      
+      {
+        "icon": "usersthree",
+        "primary": "+15 milhões",
+        "secondary": "pessoas ajudadas" 
+      }
+    ]
+  },
+
+  "text_rotator": [
+    "América do Norte",
+    "Europa",
+    "América Central",
+    "América do Central",
+    "Ásia",
+    "África",
+    "Oceania"
+  ],
+
+  "media": {
+    "title": "Cloud Arbitration<strong class='block'>on the road</strong>",
+    "description": "Veja o que estão falando sobre a CA na internet e no mundo.",
+    "articles": [
+      {
+        "title": "Fusce Inceptos Ornare Elit Egestas",
+        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
+        "url": "https://google.com"
+      },
+
+      {
+        "title": "Fusce Inceptos Ornare Elit Egestas",
+        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
+        "url": "https://google.com"
+      },
+
+      {
+        "title": "Fusce Inceptos Ornare Elit Egestas",
+        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
+        "url": "https://google.com"
+      },
+
+      {
+        "title": "Fusce Inceptos Ornare Elit Egestas",
+        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
+        "url": "https://google.com"
+      },
+
+      {
+        "title": "Fusce Inceptos Ornare Elit Egestas",
+        "description": "Vivamus sagittis lacus vel augue laoreet rutrum",
+        "url": "https://google.com"
+      }
+    ]
+  },
+
+  "segments": {
+    "title": "Atuamos em <strong class='block'>diversos segmentos</strong>",
+    "description": "Nossa presença abrange uma ampla gama de setores, oferecendo soluções adaptadas às necessidades específicas de cada mercado.",
+    "items": [
+      "Mercado Financeiro",
+      "Educação",
+      "Moda e acessórios",
+      "Tecnologia",
+      "Varejo",
+      "Serviços"
+    ],
+    "and_more": "e muito mais...",
+    "highlight": {
+      "primary": "15",
+      "secondary": "Segmentos trabalhados"
+    }
+  },
+
+  "footer": {
+    "conversion": {
+      "title": "Tem uma nova ideia?",
+      "description": "Nós temos expertise e estratégias para tirá-la do papel."
+    },
+    "copyright": "Todos os direitos reservados",
+    "contacts": {
+      "email": {
+        "label": "E-mail",
+        "value": "info@cloudarbitration.com"
+      },
+
+      "phone": {
+        "label": "Telefone",
+        "value": "(31) 99342-0738"
+      }
+    }
+  },
+
+  "social": {
+    "facebook": "https://facebook.com/cloudarbitration",
+    "instagram": "https://instagram.com/cloudarbitration",
+    "linkedin": "https://br.linkedin.com/company/cloudarbitration"
+  },
+
+  "form": {
+    "title": "Vamos conversar?",
+    "description": "Preencha o formulário abaixo para entrar em contato com a gente.",
+    "success_message": "Mensagem enviada com sucesso!",
+    "error_message": "Algo saiu errado, tente novamente!",
+    "send_message": "Enviar mensagem",
+
+    "or_send_mail": "Ou envie um e-mail:",
+    "contact_email": "info@cloudarbitration.com",
+
+    "fields": {
+      "name": {
+        "label": "Qual é o seu nome?",
+        "placeholder": "Seu nome completo",
+        "required_message": "Digite seu nome completo aqui"
+      },
+
+      "email": {
+        "label": "Qual seu e-mail?",
+        "placeholder": "seunome@email.com",
+        "required_message": "Digite um email válido aqui"
+      },
+
+      "message": {
+        "label": "Mensagem",
+        "placeholder": "Escreva aqui o que você precisa...",
+        "required_message": "Precisamos que nos diga o que precisa."
+      }
+    },
+
+    "highlight_primary": {
+      "pre": "+5 milhões",
+      "post": "de pessoas ajudadas"
+    },
+
+    "highlight_secondary": {
+      "pre": "+15 milhões",
+      "post": "de acessos mensais"
+    }
+  }
+}
