@@ -1,8 +1,8 @@
 {
-  "company_name": "Cloud Arbitration LTDA - CNPJ 53.419.145/0001-98",
+  "company_name": "Safari Media LTDA - CNPJ 59.345.061/0001-33",
 
   "seo": {
-    "title": "Cloud Arbitration LTDA - CNPJ 53.419.145/0001-98",
+    "title": "Safari Media LTDA - CNPJ 59.345.061/0001-33",
     "description": "Tecnologia avançada de Mídia Programática"
   },
 
@@ -66,8 +66,8 @@
   ],
 
   "media": {
-    "title": "Cloud Arbitration<strong class='block'>on the road</strong>",
-    "description": "Veja o que estão falando sobre a CA na internet e no mundo.",
+    "title": "Safari Media<strong class='block'>on the road</strong>",
+    "description": "Veja o que estão falando sobre a Safari na internet e no mundo.",
     "articles": [
       {
         "title": "Fusce Inceptos Ornare Elit Egestas",
@@ -139,9 +139,9 @@
   },
 
   "social": {
-    "facebook": "https://facebook.com/cloudarbitration",
-    "instagram": "https://instagram.com/cloudarbitration",
-    "linkedin": "https://br.linkedin.com/company/cloudarbitration"
+    "facebook": "https://facebook.com/safarimedia",
+    "instagram": "https://instagram.com/safarimedia",
+    "linkedin": "https://br.linkedin.com/company/safarimedia"
   },
 
   "form": {
@@ -152,7 +152,7 @@
     "send_message": "Enviar mensagem",
 
     "or_send_mail": "Ou envie um e-mail:",
-    "contact_email": "info@cloudarbitration.com",
+    "contact_email": "info@safarimedia.com.br",
 
     "fields": {
       "name": {
