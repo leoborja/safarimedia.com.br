@@ -1,8 +1,8 @@
 {
-  "company_name": "Cloud Arbitration LTDA",
+  "company_name": "Safari Media LTDA - CNPJ 59.345.061/0001-33",
 
   "seo": {
-    "title": "Cloud Arbitration LTDA",
+    "title": "Safari Media LTDA - CNPJ 59.345.061/0001-33",
     "description": "Tecnología avanzada en Medios Programáticos"
   },
 
@@ -102,7 +102,7 @@
     "contacts": {
       "email": {
         "label": "Correo electrónico",
-        "value": "info@cloudarbitration.com"
+        "value": "info@safarimedia.com.br"
       },
       "phone": {
         "label": "Teléfono",
@@ -112,9 +112,9 @@
   },
 
   "social": {
-    "facebook": "https://facebook.com/cloudarbitration",
-    "instagram": "https://instagram.com/cloudarbitration",
-    "linkedin": "https://br.linkedin.com/company/cloudarbitration"
+    "facebook": "https://facebook.com/safarimedia",
+    "instagram": "https://instagram.com/safarimedia",
+    "linkedin": "https://br.linkedin.com/company/safarimedia"
   },
 
   "form": {
@@ -124,7 +124,7 @@
     "error_message": "Algo salió mal, ¡inténtalo de nuevo!",
     "send_message": "Enviar mensaje",
     "or_send_mail": "O envía un correo electrónico:",
-    "contact_email": "info@cloudarbitration.com",
+    "contact_email": "info@safarimedia.com.br",
     "fields": {
       "name": {
         "label": "¿Cuál es tu nombre?",
